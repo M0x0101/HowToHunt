@@ -22,3 +22,6 @@ Eg: Redacted.com/api/v1/{Endpoint} ----- Redacted.com/api/v2/{Endpoint}
 
 ## Contributor:
 - [N3T_hunt3r](https://twitter.com/N3T_hunt3r)
+
+# Dom xss at swagger ui 
+https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96
